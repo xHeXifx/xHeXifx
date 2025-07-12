@@ -1,6 +1,8 @@
 ![Banner](./images/banner.png)
 
-# Hi, I'm HeXif! &gt;.&lt;
+<div align="center">
+  <img src="./images/name.gif" alt="HeXif"/>
+</div>
 
 ## About Me:
 
