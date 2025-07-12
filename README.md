@@ -1,4 +1,4 @@
-<img src="https://cdn.pfps.gg/banners/2822-kitty-club-server.png" style="border-radius: 20px;" alt="Banner" />
+![Banner](./images/banner.png)
 
 # Hi, I'm HeXif! &gt;.&lt;
 
