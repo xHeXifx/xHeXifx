@@ -1,8 +1,6 @@
 ![Banner](./images/banner.png)
 
-<div align="center">
-  <img src="./images/name.gif" alt="HeXif gif"/>
-</div>
+# Jello, I'm HeXif!! >.<
 
 ## About Me:
 
