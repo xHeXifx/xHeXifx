@@ -1,7 +1,7 @@
 ![Banner](./images/banner.png)
 
 <div align="center">
-  <img src="./images/name.gif" alt="HeXif gif"/>
+  <img src="./images/name2.gif" alt="HeXif gif"/>
 </div>
 
 ## About Me:
