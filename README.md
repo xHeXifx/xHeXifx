@@ -1,6 +1,6 @@
 ![Banner](./images/banner.png)
 
-# Jello, I'm HeXif!! >.<
+# Jello, I'm HeXif
 
 ## About Me:
 
