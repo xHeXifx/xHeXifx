@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/hexif">
-  <img height="30px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hexif&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
+  <img height="30px" src="/images/bmac-btn.png" />
 </a>
   <h1>HeXif</h1>
 </div>
