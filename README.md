@@ -38,16 +38,26 @@ I code bs for a living.. got some tuff projects though.
 
 ## Stats & Scrobbles
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=hexif&show_user=header&header_style=compact_stats&border_radius=25&footer_style=wave" width="360"/>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://lastfm-recently-played.vercel.app/api?user=hexif&show_user=header&header_style=compact_stats&border_radius=25&footer_style=wave"
+        width="360"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=xHeXifx&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2"
+      />
+      <br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHeXifx&layout=compact&theme=transparent&hide_border=true&title_color=AC0CB3&text_color=FFFFFF"
+      />
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=xHeXifx&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHeXifx&layout=compact&theme=transparent&hide_border=true&title_color=AC0CB3&text_color=FFFFFF" />
-  </div>
-</div>
 
 
 
