@@ -7,9 +7,9 @@
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/hexif">
-    <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg" alt="BuyMeACoffee" height="33" />
-  </a>
+<a href="https://www.buymeacoffee.com/hexif">
+  <img height="30px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hexif&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
+</a>
   <h1>HeXif</h1>
 </div>
 
