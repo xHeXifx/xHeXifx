@@ -7,12 +7,11 @@
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
   </a>
   &nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/hexif">
-  <img height="30px" src="/images/bmac-btn.png" />
-</a>
+  <a href="https://www.buymeacoffee.com/hexif">
+    <img height="30px" src="/images/bmac-btn.png" />
+  </a>
   <h1>HeXif</h1>
 </div>
-
 
 ## About Me:
 
@@ -37,6 +36,14 @@ I code bs for a living.. got some tuff projects though.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-![xHeXifx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHeXifx&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHeXifx&layout=compact&theme=transparent&hide_border=true&title_color=AC0CB3&text_color=FFFFFF)
+## Stats & Scrobbles
+
+<div style="display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=hexif&show_user=header&header_style=compact_stats&border_radius=25&footer_style=wave" width="360"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=xHeXifx&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2" />
+</div>
+
+
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
