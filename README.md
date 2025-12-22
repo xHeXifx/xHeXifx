@@ -61,6 +61,5 @@ I code bs for a living.. got some tuff projects though.
 
 
 
-
+![views](https://hit.yhype.me/github/profile?account_id=100049779)
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
-![](https://hit.yhype.me/github/profile?account_id=100049779)
