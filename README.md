@@ -22,6 +22,7 @@ I code bs for a living.. got some tuff projects though.
 | Checkpoint | Website that allows users to race eachother on any game | [checkpoint-race.app](https://checkpoint-race.app) |
 | OvaWeb | local/online AI container to host models, pretty tuff | <img src="./images/github-icon.svg" width="14" height="14"> [OvaWeb](https://github.com/xhexifx/ovaweb) |
 | LANControl | Opens a local API allowing you to control your pc from other devices | <img src="./images/github-icon.svg" width="14" height="14"> [LANControl](https://github.com/xhexifx/lancontrol) |
+| MSFSRouteCreator | Creates random realistic flight routes for MSFS with simbrief intergration. | <img src="./images/github-icon.svg" width="14" height="14"> [MSFSRouteCreator](https://github.com/xHeXifx/MSFSRouteCreator) |
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
