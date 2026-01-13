@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/banner.png" alt="Banner" />
+  <img src="./images/lotsofkirby.jpeg" alt="Banner" />
 </div>
 
 <div align="center">
