@@ -33,29 +33,5 @@ Backend developer primarily in python and JS.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## Stats & Scrobbles
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://lastfm-recently-played.vercel.app/api?user=hexif&show_user=header&header_style=compact_stats&border_radius=25&footer_style=wave"
-        width="360"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=xHeXifx&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&title_color=AC0CB3&text_color=FFFFFF&icon_color=1DA1F2"
-      />
-      <br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHeXifx&layout=compact&theme=transparent&hide_border=true&title_color=AC0CB3&text_color=FFFFFF"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
 ![views](https://hit.yhype.me/github/profile?account_id=100049779)
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
