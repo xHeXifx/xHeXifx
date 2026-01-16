@@ -11,8 +11,6 @@
 
 ## About Me:
 
-I code bs for a living.. got some tuff projects though.
-
 | Projects | Description | URL |
 |----------|-------------|-----|
 | Checkpoint | Website that allows users to race eachother on any game | [checkpoint-race.app](https://checkpoint-race.app) |
