@@ -11,6 +11,8 @@
 
 ## About Me:
 
+Backend developer primarily in python and JS.
+
 | Projects | Description | URL |
 |----------|-------------|-----|
 | Checkpoint | Website that allows users to race eachother on any game | [checkpoint-race.app](https://checkpoint-race.app) |
