@@ -1,8 +1,5 @@
 <div align="center">
-  <img height="300px" src="./images/lotsofkirby.jpeg" alt="Banner" />
-</div>
-
-<div align="center">
+  <h1>HeXif</h1>
   <a href="https://ko-fi.com/hexif">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
   </a>
@@ -10,7 +7,6 @@
   <a href="https://www.buymeacoffee.com/hexif">
     <img height="30px" src="/images/bmac-btn.png" />
   </a>
-  <h1>HeXif</h1>
 </div>
 
 ## About Me:
