@@ -17,6 +17,7 @@ Backend developer primarily in python and JS.
 |----------|-------------|-----|
 | Checkpoint | Website that allows users to race eachother on any game | [checkpoint-race.app](https://checkpoint-race.app) |
 | esy-dlp | Python utility making yt-dlp easier to use by integrating InquirerPy | <img src="./images/github-icon.svg" width="14" height="14"> [esy-dlp](https://github.com/xHeXifx/esy-dlp) |
+| iScrobble | A native swift app for scrobbling tracks to last.fm from apple music. | <img src="./images/github-icon.svg" width="14" height="14"> [iScrobble](https://github.com/xHeXifx/iScrobble) |
 | OvaWeb | local/online AI container to host models, pretty tuff | <img src="./images/github-icon.svg" width="14" height="14"> [OvaWeb](https://github.com/xhexifx/ovaweb) |
 | LANControl | Opens a local API allowing you to control your pc from other devices | <img src="./images/github-icon.svg" width="14" height="14"> [LANControl](https://github.com/xhexifx/lancontrol) |
 | MSFSRouteCreator | Creates random realistic flight routes for MSFS with simbrief intergration. | <img src="./images/github-icon.svg" width="14" height="14"> [MSFSRouteCreator](https://github.com/xHeXifx/MSFSRouteCreator) |
