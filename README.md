@@ -15,6 +15,7 @@ Backend developer primarily in python and JS.
 
 | Projects | Description | URL |
 |----------|-------------|-----|
+| HeXifTools | Minecraft Paper Plugin and my first Java project  | <img src="./images/github-icon.svg" width="14" height="14"> [HeXifTools](https://github.com/xHeXifx/HeXifTools) |
 | Checkpoint | Website that allows users to race eachother on any game | [checkpoint-race.app](https://checkpoint-race.app) |
 | esy-dlp | Python utility making yt-dlp easier to use by integrating InquirerPy | <img src="./images/github-icon.svg" width="14" height="14"> [esy-dlp](https://github.com/xHeXifx/esy-dlp) |
 | iScrobble | A native swift app for scrobbling tracks to last.fm from apple music. | <img src="./images/github-icon.svg" width="14" height="14"> [iScrobble](https://github.com/xHeXifx/iScrobble) |
