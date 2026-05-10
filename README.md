@@ -13,15 +13,108 @@
 
 Backend developer primarily in python and JS.
 
-| Projects | Description | URL |
-|----------|-------------|-----|
-| HeXifTools | Minecraft Paper Plugin and my first Java project  | <img src="./images/github-icon.svg" width="14" height="14"> [HeXifTools](https://github.com/xHeXifx/HeXifTools) |
-| Checkpoint | Website that allows users to race eachother on any game | [checkpoint-race.app](https://checkpoint-race.app) |
-| esy-dlp | Python utility making yt-dlp easier to use by integrating InquirerPy | <img src="./images/github-icon.svg" width="14" height="14"> [esy-dlp](https://github.com/xHeXifx/esy-dlp) |
-| iScrobble | A native swift app for scrobbling tracks to last.fm from apple music. | <img src="./images/github-icon.svg" width="14" height="14"> [iScrobble](https://github.com/xHeXifx/iScrobble) |
-| OvaWeb | local/online AI container to host models, pretty tuff | <img src="./images/github-icon.svg" width="14" height="14"> [OvaWeb](https://github.com/xhexifx/ovaweb) |
-| LANControl | Opens a local API allowing you to control your pc from other devices | <img src="./images/github-icon.svg" width="14" height="14"> [LANControl](https://github.com/xhexifx/lancontrol) |
-| MSFSRouteCreator | Creates random realistic flight routes for MSFS with simbrief intergration. | <img src="./images/github-icon.svg" width="14" height="14"> [MSFSRouteCreator](https://github.com/xHeXifx/MSFSRouteCreator) |
+
+# Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## HeXifTools
+
+Minecraft Paper Plugin and my first Java project
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xHeXifx/HeXifTools">Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## Fast Ion Cube Fabricator
+
+A BepInEx mod for Subnautica that adjusts the speed of the Ion Cube Fabricator
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xHeXifx/Fast-Ion-Cube-Fabricator">Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## Checkpoint
+
+Website that allows users to race each other on any game
+
+<a href="https://checkpoint-race.app">🌐 checkpoint-race.app</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+## esy-dlp
+
+Python utility making yt-dlp easier to use by integrating InquirerPy
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xHeXifx/esy-dlp">Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## iScrobble
+
+A native Swift app for scrobbling tracks to Last.fm from Apple Music
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xHeXifx/iScrobble">Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## OvaWeb
+
+Local/online AI container to host models, pretty tuff
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xhexifx/ovaweb">Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+## LANControl
+
+Opens a local API allowing you to control your PC from other devices
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xhexifx/lancontrol">Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+## MSFSRouteCreator
+
+Creates random realistic flight routes for MSFS with SimBrief integration
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xHeXifx/MSFSRouteCreator">Repository</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+
+</td>
+</tr>
+</table>
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
