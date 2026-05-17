@@ -42,6 +42,20 @@ A BepInEx mod for Subnautica that adjusts the speed of the Ion Cube Fabricator
 
 <td width="33%" valign="top">
 
+## Subnautica BZ Debug Menu
+
+A simple tool allowing modders to view game details at all times
+
+<img src="./images/github-icon.svg" width="14" height="14">  
+<a href="https://github.com/xHeXifx/SubnauticaBZDebugMenu">Repository</a>
+
+</td>
+
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
 ## Checkpoint
 
 Website that allows users to race each other on any game
@@ -49,9 +63,7 @@ Website that allows users to race each other on any game
 <a href="https://checkpoint-race.app">🌐 checkpoint-race.app</a>
 
 </td>
-</tr>
 
-<tr>
 <td width="33%" valign="top">
 
 ## esy-dlp
@@ -74,6 +86,9 @@ A native Swift app for scrobbling tracks to Last.fm from Apple Music
 
 </td>
 
+</tr>
+
+<tr>
 <td width="33%" valign="top">
 
 ## OvaWeb
@@ -84,9 +99,7 @@ Local/online AI container to host models, pretty tuff
 <a href="https://github.com/xhexifx/ovaweb">Repository</a>
 
 </td>
-</tr>
 
-<tr>
 <td width="33%" valign="top">
 
 ## LANControl
@@ -109,10 +122,6 @@ Creates random realistic flight routes for MSFS with SimBrief integration
 
 </td>
 
-<td width="33%" valign="top">
-
-
-</td>
 </tr>
 </table>
 
